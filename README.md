@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **SSIS, SSRS, PowerBi**
 
-💬 Ask me about **Python, Flask, SQL... or anything**
+💬 Ask me about **Python, Flask, SQL... or anything*
 
 
  </div>
